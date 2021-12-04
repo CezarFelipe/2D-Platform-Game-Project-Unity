@@ -55,7 +55,7 @@ E depois de instalado o Hub baixar a versão da unity 2018.4.36.
 
 ### Clone este repositório
 ```bash
-$ git clone <git@github.com:CezarFelipe/2D-Platform-Game-Project-Unity.git>
+$ git clone git@github.com:CezarFelipe/2D-Platform-Game-Project-Unity.git
 
 ```
 ### Acesse o diretório Build dentro do projeto
@@ -65,7 +65,7 @@ $ git clone <git@github.com:CezarFelipe/2D-Platform-Game-Project-Unity.git>
 
 # Clone este repositório
 ```bash
-$ git clone <git@github.com:CezarFelipe/2D-Platform-Game-Project-Unity.git>
+$ git clone git@github.com:CezarFelipe/2D-Platform-Game-Project-Unity.git
 
 ```
 
