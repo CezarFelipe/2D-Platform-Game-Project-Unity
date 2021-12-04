@@ -25,6 +25,18 @@
  <a href="#licença">Licença</a>
 </p>
 
+ <!--ts-->
+   * [Titulo](#titulo)
+   * [Descricao](#descricao)
+   * [Status do Projeto](#status-do-projeto)
+   * [Features(#features)
+   * [Demonstração da Aplicação](#demonstração-da-aplicação)
+   * [Pré-requisitos](#pre-requisitos)
+   * [Tecnologias utilizadas](#tecnologias-utilizadas)
+   * [Autor](#autor)
+   * [Licença](#licença)
+<!--te-->
+ 
 
 ### Features
 - [X] Parallax
