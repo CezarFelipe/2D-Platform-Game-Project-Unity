@@ -63,7 +63,7 @@ $ git clone git@github.com:CezarFelipe/2D-Platform-Game-Project-Unity.git
 
 ## 🎲 Acessando Projeto pela Unity
 
-# Clone este repositório
+### Clone este repositório
 ```bash
 $ git clone git@github.com:CezarFelipe/2D-Platform-Game-Project-Unity.git
 
