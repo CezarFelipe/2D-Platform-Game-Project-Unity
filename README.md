@@ -75,34 +75,18 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/community/)
 - [CSharp](https://www.microsoft.com/pt-br/p/csharp/9n4w6bhc0hml#activetab=pivot:overviewtab)
 
-## Contribuição
-
-<!-- Thanks goes to these people ([emoji key][emojis]): -->
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<a href="https://www.linkedin.com/in/cezarfelipedasilva/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29206101?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Cézar Felipe</b></sub></a> <a href="https://www.linkedin.com/in/cezarfelipedasilva/" title="Linkedin">🚀</a>
-
-    
-  </tr>
-  <tr>
   
 ### Autor
 ---
-<a href="https://www.linkedin.com/in/cezarfelipedasilva/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29206101?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Cézar Felipe</b></sub></a> <a href="https://www.linkedin.com/in/cezarfelipedasilva/" title="Linkedin">🚀</a>
 
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29206101?v=4" width="100px;" alt=""/>
 
 Feito com ❤️ por Cézar Felipe 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/cezarfelipedasilva/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cezarfelipe2008@outlook.com)](mailto:tgmarinho@gmail.com)
+ <a href="https://www.instagram.com/cezar_felpis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:cezarfelipe2008@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cezarfelipedasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
 ## Licença
 
 
