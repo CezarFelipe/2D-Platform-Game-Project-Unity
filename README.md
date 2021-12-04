@@ -1,37 +1,28 @@
 <img src="https://github.com/CezarFelipe/2D-Platform-Game-Project-Unity/blob/documentation/image/banner.png"/>
 
 ### Título
+---
 <h1 align="justify"> Projeto Jogo 2D Plataforma Unity</h1>
 
 ### Descrição
+---
 <p align="justify"> O projeto jogo 2d plataforma unity é um game do tipo aventura que foi desenvolvido com a engine Unity </p>
 
 <img src="https://img.shields.io/static/v1?label=unity&message=engine&color=blue&style=for-the-badge&logo=UNITY"/>
 
 ### Status do Projeto
+---
 > Status do Projeto: Concluido :heavy_check_mark:
 
 ### Tabela de Conteúdos
-<p align="center">
- <a href="#titulo">Badges</a>
- <a href="#descricao">Roadmap</a>
- <a href="#status-do-projeto">Tecnologias</a>
- <a href="#features">Features</a>
- <a href="#demonstração-da-aplicação">Demonstração da Aplicação</a>
- <a href="#pre-requisitos">Pré-requisitos</a>
- <a href="#tecnologias-utilizadas">Tecnologias utilizadas/a>
- <a href="#demonstração-da-aplicação">Demonstração da Aplicação</a>
- <a href="#autor">Autor</a>
- <a href="#licença">Licença</a>
-</p>
-
+---
  <!--ts-->
-   * [Titulo](#titulo)
-   * [Descricao](#descricao)
+   * [Titulo](#título)
+   * [Descrição](#descrição)
    * [Status do Projeto](#status-do-projeto)
-   * [Features(#features)
+   * [Features](#features)
    * [Demonstração da Aplicação](#demonstração-da-aplicação)
-   * [Pré-requisitos](#pre-requisitos)
+   * [Pré-requisitos](#pré-requisitos)
    * [Tecnologias utilizadas](#tecnologias-utilizadas)
    * [Autor](#autor)
    * [Licença](#licença)
@@ -39,6 +30,7 @@
  
 
 ### Features
+---
 - [X] Parallax
 - [X] Animações
 - [X] Transições
@@ -47,12 +39,14 @@
 - [X] Cutscene
 
 ### Demonstração da Aplicação
+---
 <img src="https://github.com/CezarFelipe/2D-Platform-Game-Project-Unity/blob/documentation/image/1.PNG"/>
 <img src="https://github.com/CezarFelipe/2D-Platform-Game-Project-Unity/blob/documentation/image/2.PNG"/>
 <img src="https://github.com/CezarFelipe/2D-Platform-Game-Project-Unity/blob/documentation/image/3.PNG"/>
 <img src="https://github.com/CezarFelipe/2D-Platform-Game-Project-Unity/blob/documentation/image/4.PNG"/>
 
 ### Pré-requisitos
+---
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Unity Hub](https://unity3d.com/pt/get-unity/download). 
 E depois de instalado o Hub baixar a versão da unity 2018.4.36.
@@ -80,15 +74,13 @@ $ git clone <https://github.com/tgmarinho/nlw1>
 ```
 
 ### Tecnologias utilizadas
-
+---
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Unity](https://unity3d.com/pt/get-unity/download)
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/community/)
 - [CSharp](https://www.microsoft.com/pt-br/p/csharp/9n4w6bhc0hml#activetab=pivot:overviewtab)
 
-## :handshake: **Contributing**
----
 ## **Autor**
 ---
 
