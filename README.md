@@ -1,32 +1,31 @@
-
-## Logo ou Banner
 <img src="https://github.com/CezarFelipe/2D-Platform-Game-Project-Unity/blob/documentation/image/banner.png"/>
 
-## Título e Descrição
+### Título e Descrição
 <h1 align="justify"> Projeto Jogo 2D Plataforma Unity</h1>
 <h1 align="center">
     <a href="https://unity.com/pt">🔗 Unity</a>
 </h1>
 <p align="justify"> O projeto jogo 2d plataforma unity é um game do tipo aventura que foi desenvolvido com a engine Unity </p>
 
-## Badges
+### Badges
 <img src="https://img.shields.io/static/v1?label=unity&message=engine&color=blue&style=for-the-badge&logo=UNITY"/>
 
-## Status do Projeto
+### Status do Projeto
 > Status do Projeto: Concluido :heavy_check_mark:
 
-## Tabela de Conteúdos
+### Tabela de Conteúdos
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
+ <a href="### badges">Badges</a>
+ <a href="#roadmap">Roadmap</a>
+ <a href="#handshake-contributing">Contributing</a> •  
+ <a href="#tecnologias">Tecnologias</a>
+ <a href="#contribuicao">Contribuição</a>
+ <a href="#licenc-a">Licença</a>
  <a href="#autor">Autor</a>
 </p>
 
 
-## Features
+### Features
 - [X] Parallax
 - [X] Animações
 - [X] Transições
@@ -34,18 +33,18 @@
 - [X] Animator
 - [X] Cutscene
 
-## Demonstração da Aplicação
+### Demonstração da Aplicação
 <img src="https://github.com/CezarFelipe/2D-Platform-Game-Project-Unity/blob/documentation/image/1.PNG"/>
 <img src="https://github.com/CezarFelipe/2D-Platform-Game-Project-Unity/blob/documentation/image/2.PNG"/>
 <img src="https://github.com/CezarFelipe/2D-Platform-Game-Project-Unity/blob/documentation/image/3.PNG"/>
 <img src="https://github.com/CezarFelipe/2D-Platform-Game-Project-Unity/blob/documentation/image/4.PNG"/>
 
-## Pré-requisitos e como rodar a aplicação/testes
+### Pré-requisitos e como rodar a aplicação/testes
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Unity Hub](https://unity3d.com/pt/get-unity/download). 
 E depois de instalado o Hub baixar a versão da unity 2018.4.36.
 
-### 🎲 Rodando a Build
+## 🎲 Rodando a Build
 
 ```bash
 # Clone este repositório
@@ -57,7 +56,7 @@ $ git clone <git@github.com:CezarFelipe/2D-Platform-Game-Project-Unity.git>
 
 ```
 
-### 🎲 Acessando Projeto pela Unity
+## 🎲 Acessando Projeto pela Unity
 
 ```bash
 # Clone este repositório
@@ -67,7 +66,7 @@ $ git clone <https://github.com/tgmarinho/nlw1>
 
 ```
 
-## Tecnologias utilizadas
+### Tecnologias utilizadas
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -75,8 +74,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/vs/community/)
 - [CSharp](https://www.microsoft.com/pt-br/p/csharp/9n4w6bhc0hml#activetab=pivot:overviewtab)
 
-  
-### Autor
+## :handshake: **Contributing**
+---
+## **Autor**
 ---
 
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29206101?v=4" width="100px;" alt=""/>
@@ -87,7 +87,7 @@ Feito com ❤️ por Cézar Felipe 👋🏽 Entre em contato!
   <a href = "mailto:cezarfelipe2008@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cezarfelipedasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-## Licença
+### Licença
 <a href="https://github.com/CezarFelipe/2D-Platform-Game-Project-Unity/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/license-MIT-green" target="_blank"></a>
 
 
