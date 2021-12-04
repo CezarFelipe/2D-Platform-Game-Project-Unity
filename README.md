@@ -1,13 +1,11 @@
 <img src="https://github.com/CezarFelipe/2D-Platform-Game-Project-Unity/blob/documentation/image/banner.png"/>
 
-### Título e Descrição
+### Título
 <h1 align="justify"> Projeto Jogo 2D Plataforma Unity</h1>
-<h1 align="center">
-    <a href="https://unity.com/pt">🔗 Unity</a>
-</h1>
+
+### Descrição
 <p align="justify"> O projeto jogo 2d plataforma unity é um game do tipo aventura que foi desenvolvido com a engine Unity </p>
 
-### Badges
 <img src="https://img.shields.io/static/v1?label=unity&message=engine&color=blue&style=for-the-badge&logo=UNITY"/>
 
 ### Status do Projeto
@@ -15,13 +13,16 @@
 
 ### Tabela de Conteúdos
 <p align="center">
- <a href="### badges">Badges</a>
- <a href="#roadmap">Roadmap</a>
- <a href="#handshake-contributing">Contributing</a> •  
- <a href="#tecnologias">Tecnologias</a>
- <a href="#contribuicao">Contribuição</a>
- <a href="#licenc-a">Licença</a>
+ <a href="#titulo">Badges</a>
+ <a href="#descricao">Roadmap</a>
+ <a href="#status-do-projeto">Tecnologias</a>
+ <a href="#features">Features</a>
+ <a href="#demonstração-da-aplicação">Demonstração da Aplicação</a>
+ <a href="#pre-requisitos">Pré-requisitos</a>
+ <a href="#tecnologias-utilizadas">Tecnologias utilizadas/a>
+ <a href="#demonstração-da-aplicação">Demonstração da Aplicação</a>
  <a href="#autor">Autor</a>
+ <a href="#licença">Licença</a>
 </p>
 
 
@@ -39,7 +40,7 @@
 <img src="https://github.com/CezarFelipe/2D-Platform-Game-Project-Unity/blob/documentation/image/3.PNG"/>
 <img src="https://github.com/CezarFelipe/2D-Platform-Game-Project-Unity/blob/documentation/image/4.PNG"/>
 
-### Pré-requisitos e como rodar a aplicação/testes
+### Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Unity Hub](https://unity3d.com/pt/get-unity/download). 
 E depois de instalado o Hub baixar a versão da unity 2018.4.36.
